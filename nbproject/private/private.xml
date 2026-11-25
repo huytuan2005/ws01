@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/home.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/model/DTO/Category.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Product/ProductController.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/model/DTO/Account.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/model/DAO/ProductDAO.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/category/update.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Filter/AuthenticationFilter.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Account/ListAccount.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Product/DeleteProduct.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/navbar.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Account/CreateAccount.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Authentication/LogoutController.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/model/DAO/ConnectDB.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Account/AccountController.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Category/CreateCategory.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Category/UpdateCategory.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Account/DeleteAccount.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Product/ListProduct.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Filter/AuthorizationFilter.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/product/list.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/login.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Authentication/LoginController.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/model/DAO/Acccessible.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Authentication/HomeController.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Category/ListCategory.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Product/CreateProduct.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Category/CategoryController.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/model/DTO/Product.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/product/create.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Product/UpdateProduct.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/account/create.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/account/update.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Category/DeleteCategory.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/account/list.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/Controller/Account/UpdateAccount.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/category/list.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/model/DAO/AccountDAO.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/product/update.jsp</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/src/java/model/DAO/CategoryDAO.java</file>
+            <file>file:/C:/Users/phuct/OneDrive/Documents/NetBeansProjects/ws01/web/category/create.jsp</file>
+        </group>
+    </open-files>
+</project-private>
